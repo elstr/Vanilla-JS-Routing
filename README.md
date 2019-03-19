@@ -1,6 +1,6 @@
 # You might not need a library/framework 😎
 
-## What's this all about?
+What's this all about? <br/>
 To get my hands back on vanilla js I've set myself a challenge 💪
 - Read a JSON file & reduce it
 - Render items and manipulate the DOM with an API that abstracts this 🤓
